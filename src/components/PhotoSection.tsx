@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import mem1 from "../assets/img1.jpg";
 import mem2 from "../assets/img2.jpg";
 import mem3 from "../assets/img3.jpg";
-import mem4 from "../assets/img4.jpg";
+import mem4 from "../assets/img.jpg";
 
 const photos = [
   {
