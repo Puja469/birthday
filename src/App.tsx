@@ -3,7 +3,7 @@ import BirthdayCard from "./components/LoveCards";
 import PhotoSection from "./components/PhotoSection";
 import confetti from "canvas-confetti";
 import music from "./assets/music.mp3";
-import jp1 from "./assets/img1.jpg";
+import jp1 from "./assets/img4.jpg";
 
 type Stage =
   | "intro"
